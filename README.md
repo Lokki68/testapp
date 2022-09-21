@@ -5,4 +5,4 @@ application up and running.
 
 Things you may want to cover:
 
-* Complete ruby on rails formation
+* Complete ruby on rails Developer Formation
